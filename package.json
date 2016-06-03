@@ -1,7 +1,7 @@
 {
-  "name": "split.js",
+  "name": "utility",
   "version": "1.0.6",
-  "description": "A collection of general purpose util methods which is commonly used by programmers in any project",
+  "description": "A collection of general purpose javascript components",
   "main": "src/index.js",
   "repository": {
     "type": "git",

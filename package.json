@@ -1,1 +1,5 @@
-
+{
+  "name": "split.js",
+  "version": "1.0.6",
+  "description": "A collection of general purpose util methods which is commonly used by programmers in any project"
+}

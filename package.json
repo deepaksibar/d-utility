@@ -1,5 +1,19 @@
 {
   "name": "split.js",
   "version": "1.0.6",
-  "description": "A collection of general purpose util methods which is commonly used by programmers in any project"
+  "description": "A collection of general purpose util methods which is commonly used by programmers in any project",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepaksibar/utility.git"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "Deepak Kumar <deepaksibar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deepaksibar/utility/issues"
+  },
+  "homepage": "https://github.com/deepaksibar/utility#readme"
 }

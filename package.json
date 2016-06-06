@@ -1,5 +1,5 @@
 {
-  "name": "utility",
+  "name": "jsutility",
   "version": "1.0.6",
   "description": "A collection of general purpose javascript components",
   "main": "src/index.js",

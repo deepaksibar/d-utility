@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deepaksibar/utility.git"
+    "url": "git+https://github.com/deepaksibar/jsutility.git"
   },
   "keywords": [
     "css"
@@ -13,7 +13,7 @@
   "author": "Deepak Kumar <deepaksibar@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/deepaksibar/utility/issues"
+    "url": "https://github.com/deepaksibar/jsutility/issues"
   },
-  "homepage": "https://github.com/deepaksibar/utility#readme"
+  "homepage": "https://github.com/deepaksibar/jsutility#readme"
 }

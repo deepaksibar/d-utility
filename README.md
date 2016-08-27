@@ -9,7 +9,7 @@ npm install jsutility
 ## Documentation
 | JS Utility Method | Input | Output | Description |
 |---|---|---|---|
-| log() | string | | shows log message on console |
+| log() | string | - | Logs input message on console |
 
 ## Usage
 ```js

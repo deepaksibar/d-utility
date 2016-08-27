@@ -1,5 +1,5 @@
 {
-  "name": "jsutility",
+  "name": "d-utility",
   "version": "1.0.6",
   "description": "A collection of general purpose javascript components",
   "main": "src/index.js",
@@ -13,12 +13,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deepaksibar/jsutility.git"
+    "url": "git+https://github.com/deepaksibar/d-utility.git"
   },
   "bugs": {
-    "url": "https://github.com/deepaksibar/jsutility/issues"
+    "url": "https://github.com/deepaksibar/d-utility/issues"
   },
-  "homepage": "https://github.com/deepaksibar/jsutility#readme",
+  "homepage": "https://github.com/deepaksibar/d-utility#readme",
   "dependencies": {
   },
   "devDependencies" : {

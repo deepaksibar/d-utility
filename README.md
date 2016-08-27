@@ -5,6 +5,6 @@
   npm install jsutility
 	
 ## Usage:
-	var jsutility = require('jsutility');
+  var jsutility = require('jsutility');
   jsutility.printMsg("This is a message from the demo package");
 

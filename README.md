@@ -1,3 +1,10 @@
 # JS Utility
-Utility is a collection of general purpose util methods which is commonly used by programmers in any project
+  JS Utility is a collection of general purpose javascript utility components which is commonly used by programmers in node projects.
+
+## Installation
+  npm install jsutility
+	
+## Usage:
+	var jsutility = require('jsutility');
+  jsutility.printMsg("This is a message from the demo package");
 

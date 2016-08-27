@@ -1,13 +1,13 @@
 {
   "name": "jsutility",
   "version": "0.0.0",
-  "description": "A collection of general purpose javascript components",
+  "description": "Collection of general purpose javascript utility components",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "css"
+    "logger"
   ],
   "author": "Deepak Kumar <deepaksibar@gmail.com>",
   "license": "MIT",

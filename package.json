@@ -3,15 +3,18 @@
   "version": "1.0.6",
   "description": "A collection of general purpose javascript components",
   "main": "src/index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/deepaksibar/jsutility.git"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "css"
   ],
   "author": "Deepak Kumar <deepaksibar@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepaksibar/jsutility.git"
+  },
   "bugs": {
     "url": "https://github.com/deepaksibar/jsutility/issues"
   },

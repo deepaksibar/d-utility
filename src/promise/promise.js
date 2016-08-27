@@ -1,4 +1,4 @@
-var promise = ideogram.promise = function(fn) {
+var promise = function(fn) {
   this.fulfill = function(data) {
     if(data != null && (typeof this.fnData != undefined))
       this.fnData(data);

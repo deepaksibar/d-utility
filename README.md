@@ -4,7 +4,10 @@ JS Utility is a collection of general purpose javascript utility components whic
 ## Installation
 	npm install jsutility
 	
-## Usage:
+## Documentation
+
+
+## Usage
 	var jsutility = require('jsutility');
 	jsutility.printMessage("This is a message from the demo package");
 

@@ -1,6 +1,6 @@
 {
   "name": "jsutility",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A collection of general purpose javascript components",
   "main": "src/index.js",
   "scripts": {

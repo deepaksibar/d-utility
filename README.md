@@ -6,5 +6,5 @@
 	
 ## Usage:
   var jsutility = require('jsutility');
-  jsutility.printMsg("This is a message from the demo package");
+  jsutility.printMessage("This is a message from the demo package");
 

@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/deepaksibar/jsutility/issues"
   },
-  "homepage": "https://github.com/deepaksibar/jsutility#readme"
+  "homepage": "https://github.com/deepaksibar/jsutility#readme",
+  "dependencies": {
+  },
+  "devDependencies" : {
+  }
 }

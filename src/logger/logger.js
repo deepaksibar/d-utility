@@ -15,3 +15,4 @@ logger.prototype.log = function(msg) {
     }
   }
 }
+//https://github.com/jonschlinkert/utils

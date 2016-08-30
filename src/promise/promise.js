@@ -1,4 +1,4 @@
-var promise = function(fn) {
+var promise = module.exports = function(fn) {
   this.fulfill = function(data) {
     if(data != null && (typeof this.fnData != undefined))
       this.fnData(data);

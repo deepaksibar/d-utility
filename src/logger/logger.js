@@ -1,6 +1,7 @@
 (function (jsutility) {
   var logger = jsutility.logger = function(options) {
     this.debug = true;
+    this.title = "";
   }
   
   logger.prototype.log = function(msg) {
@@ -11,7 +12,7 @@
         copy(msg);
       }
       if (typeof console != "undefined") {
-        console.log("igv-canvas: " + time + " " + msg);
+        console.log(this.title + time + " " + msg);
       }
     }
   }

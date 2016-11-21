@@ -2,7 +2,7 @@
   "name": "jsutility",
   "version": "0.0.0",
   "description": "Collection of general purpose javascript utility components",
-  "main": "src/index.js",
+  "main": "src/core.js",
   "module": "index.js",
   "typings": "index.d.ts",
   "scripts": {
